@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_warning_black_24dp"
+        android:title="علامات المنع" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/ic_report_black_24dp"
+        android:title="علامات الزامية" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/ic_traffic_black_24dp"
+        android:title="علامات ارضية" />
+
+
+    <item
+        android:id="@+id/navigation_exam"
+        android:icon="@drawable/ic_exam"
+        android:title="أختبارات" />
+</menu>
